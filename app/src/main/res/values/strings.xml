@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GastosMensuales</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="action_ingresar">Ingresar</string>
+    <string name="action_consultar">Consultar</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
